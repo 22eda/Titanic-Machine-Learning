@@ -40,6 +40,7 @@ Support Vector Machine	0.7765
 
 
 
+
 ✍️ Hazırlayan
 Ad: Edanur Demirel
 
