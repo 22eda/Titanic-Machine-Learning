@@ -27,10 +27,15 @@ Veri seti [Kaggle Titanic Yarışması](https://www.kaggle.com/competitions/tita
 📊 Uygulanan Modeller
 
 Model	Doğruluk (Validation)
+
 Logistic Regression	0.7821 ✅
+
 Random Forest	0.7598
+
 XGBoost	0.7654
+
 K-Nearest Neighbors	0.7765
+
 Support Vector Machine	0.7765
 
 
