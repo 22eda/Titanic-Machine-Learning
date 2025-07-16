@@ -38,10 +38,8 @@ K-Nearest Neighbors	0.7765
 
 Support Vector Machine	0.7765
 
+##✍️ Hazırlayan
 
-
-
-✍️ Hazırlayan
 Ad: Edanur Demirel
 
 Alan: İstatistik ve Bilgisayar Bilimleri
