@@ -24,6 +24,11 @@ Bu proje, aşağıdaki adımları kapsamaktadır:
 
 Veri seti [Kaggle Titanic Yarışması](https://www.kaggle.com/competitions/titanic) üzerinden elde edilmiştir.
 
+##Elde Ettiğim Grafikler
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/e5b17580-28c9-4422-94f6-bc278d267fea" />
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/58db5908-3a22-40d0-bd85-58a773658b9c" />
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/5b1e0f3d-a246-4153-b2e7-b3812c5cde75" />
+
 📊 Uygulanan Modeller
 
 Model	Doğruluk (Validation)
